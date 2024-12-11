@@ -1,0 +1,27 @@
+# Build directories
+/target/
+/frontend/node_modules/
+/e-sell_backend/.mvn/
+/e-sell_backend/mvnm
+/e-sell_backend/mvnm.cmd
+
+
+# IDE files
+.idea/
+**/.idea/
+.idea/**
+.idea/libraries/
+.idea/*.xml
+.vscode/
+**/.vscode/
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# Misc
+*.iml
+*.iws
+*.ipr
+.DS_Store
